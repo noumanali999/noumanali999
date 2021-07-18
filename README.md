@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @noumanali999
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Here  this is neural doodle python experiment you can run this github code with all requirements
+
+Group members are 
+(Noman Ali 2k18/ite/82)
+(Uroosa Channa 2k18/ite/82)
+--->
